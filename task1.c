@@ -1,2 +1,6 @@
 hii we have learnt git
-learning sub
+<<<<<<< HEAD
+learning sub 
+=======
+learning sub 
+>>>>>>> my change
